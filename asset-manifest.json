@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redeemWebsite/static/css/main.b21089eb.css",
+    "main.js": "/redeemWebsite/static/js/main.4467ff48.js",
+    "index.html": "/redeemWebsite/index.html",
+    "main.b21089eb.css.map": "/redeemWebsite/static/css/main.b21089eb.css.map",
+    "main.4467ff48.js.map": "/redeemWebsite/static/js/main.4467ff48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b21089eb.css",
+    "static/js/main.4467ff48.js"
+  ]
+}
